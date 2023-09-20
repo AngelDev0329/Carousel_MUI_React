@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
+
+https://github.com/AngelDev0329/Carousel_MUIi_React/assets/54489723/ad231b15-f8bd-41de-9a4c-17531a8db3a0
+
+ with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
